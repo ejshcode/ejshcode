@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ### :zap: Actividad reciente
-<!--START_SECTION: activity-->
+<!--RECENT_SECTION: start-->
 
-<!--END_SECTION: activity-->
+<!--RECENT_SECTION: last_update-->
 
 <!--
 **ejshcode/ejshcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
